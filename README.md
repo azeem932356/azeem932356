@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on upgrading myself from a Data Analyst to a Data Scientist<br>🌱 I'm currently learning AI/ML, AWS, Databricks, Snowflake and FastAPI to open up better opportunities<br>💬 Ask me about Data Analysis, Python, SQL and anything Data Science related
+🔭 I'm currently working on upgrading myself from a Data Analyst to a Data Scientist<br>
 
 
 ## 🌐 Socials:
