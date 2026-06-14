@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 🔭 I'm currently working on upgrading myself from a Data Analyst to a Data Scientist
 
 
